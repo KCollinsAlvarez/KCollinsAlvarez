@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola :relaxed:! Soy Collins Álvarez,  estudiante de último año de la carrera de Informática Empresarial. 
+:relaxed: ¡Hola! Soy Collins Álvarez,  estudiante de último año de la carrera de Informática Empresarial. 
 <br>:relieved: Durante mi carrera, he adquirido conocimientos sólidos en áreas como programación, bases de datos, desarrollo web y gestión de proyectos. 
 <br>:grinning: He trabajado en proyectos prácticos que me han permitido aplicar y fortalecer mis habilidades técnicas. Además, he tenido la oportunidad de colaborar en equipos multidisciplinarios, lo que me ha brindado una valiosa experiencia en comunicación y trabajo en equipo.
 <br>:grin: Mis principales áreas de interés incluyen el desarrollo de aplicaciones web, enfatizado en el Front-end, pero tambien estoy interesada en aprender mas el desarrollo del Back-end.
