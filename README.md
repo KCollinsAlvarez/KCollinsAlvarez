@@ -1,5 +1,5 @@
 # 💫 About Me:
-[:relaxed:] ¡Hola! Soy Collins Álvarez
+¡Hola! Soy Collins Álvarez
 
 
 ## 🌐 Socials:
